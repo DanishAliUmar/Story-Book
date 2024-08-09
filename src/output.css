@@ -586,6 +586,30 @@ video {
   top: 40%;
 }
 
+.-right-\[6px\] {
+  right: -6px;
+}
+
+.-top-\[6px\] {
+  top: -6px;
+}
+
+.top-\[30\%\] {
+  top: 30%;
+}
+
+.top-\[36\%\] {
+  top: 36%;
+}
+
+.top-\[38\%\] {
+  top: 38%;
+}
+
+.top-\[37\%\] {
+  top: 37%;
+}
+
 .z-0 {
   z-index: 0;
 }
@@ -719,6 +743,42 @@ video {
   margin-right: 60px;
 }
 
+.mt-\[6px\] {
+  margin-top: 6px;
+}
+
+.mt-\[42px\] {
+  margin-top: 42px;
+}
+
+.mt-\[280px\] {
+  margin-top: 280px;
+}
+
+.mt-\[30px\] {
+  margin-top: 30px;
+}
+
+.mt-\[90px\] {
+  margin-top: 90px;
+}
+
+.mt-\[40px\] {
+  margin-top: 40px;
+}
+
+.mt-\[10px\] {
+  margin-top: 10px;
+}
+
+.mt-\[230px\] {
+  margin-top: 230px;
+}
+
+.mr-\[40px\] {
+  margin-right: 40px;
+}
+
 .flex {
   display: flex;
 }
@@ -843,6 +903,42 @@ video {
   height: 245px;
 }
 
+.h-\[16px\] {
+  height: 16px;
+}
+
+.h-\[90px\] {
+  height: 90px;
+}
+
+.h-\[400px\] {
+  height: 400px;
+}
+
+.h-\[52px\] {
+  height: 52px;
+}
+
+.h-\[280px\] {
+  height: 280px;
+}
+
+.h-\[255px\] {
+  height: 255px;
+}
+
+.h-\[265px\] {
+  height: 265px;
+}
+
+.h-\[275px\] {
+  height: 275px;
+}
+
+.h-\[300px\] {
+  height: 300px;
+}
+
 .w-\[14px\] {
   width: 14px;
 }
@@ -895,6 +991,22 @@ video {
   width: 100%;
 }
 
+.w-\[32px\] {
+  width: 32px;
+}
+
+.w-\[16px\] {
+  width: 16px;
+}
+
+.w-\[90px\] {
+  width: 90px;
+}
+
+.w-\[52px\] {
+  width: 52px;
+}
+
 .max-w-\[2000px\] {
   max-width: 2000px;
 }
@@ -928,6 +1040,66 @@ video {
 
 .-translate-y-\[140px\] {
   --tw-translate-y: -140px;
+  transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
+}
+
+.translate-y-\[20px\] {
+  --tw-translate-y: 20px;
+  transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
+}
+
+.translate-y-\[120px\] {
+  --tw-translate-y: 120px;
+  transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
+}
+
+.-translate-y-\[120px\] {
+  --tw-translate-y: -120px;
+  transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
+}
+
+.-translate-y-\[180px\] {
+  --tw-translate-y: -180px;
+  transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
+}
+
+.-translate-y-\[110px\] {
+  --tw-translate-y: -110px;
+  transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
+}
+
+.-translate-y-\[100px\] {
+  --tw-translate-y: -100px;
+  transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
+}
+
+.-translate-y-\[90px\] {
+  --tw-translate-y: -90px;
+  transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
+}
+
+.-translate-y-\[84px\] {
+  --tw-translate-y: -84px;
+  transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
+}
+
+.-translate-y-\[86px\] {
+  --tw-translate-y: -86px;
+  transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
+}
+
+.-translate-y-\[150px\] {
+  --tw-translate-y: -150px;
+  transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
+}
+
+.-translate-y-\[160px\] {
+  --tw-translate-y: -160px;
+  transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
+}
+
+.-translate-y-\[70px\] {
+  --tw-translate-y: -70px;
   transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
 }
 
@@ -1035,6 +1207,27 @@ video {
 
 .gap-\[80px\] {
   gap: 80px;
+}
+
+.gap-\[20px\] {
+  gap: 20px;
+}
+
+.gap-\[140px\] {
+  gap: 140px;
+}
+
+.gap-\[160px\] {
+  gap: 160px;
+}
+
+.gap-x-\[20px\] {
+  -moz-column-gap: 20px;
+       column-gap: 20px;
+}
+
+.gap-y-\[30px\] {
+  row-gap: 30px;
 }
 
 .overflow-hidden {
@@ -1296,6 +1489,26 @@ video {
   padding-top: 70px;
 }
 
+.pt-\[30px\] {
+  padding-top: 30px;
+}
+
+.pt-\[40px\] {
+  padding-top: 40px;
+}
+
+.pb-\[40px\] {
+  padding-bottom: 40px;
+}
+
+.pb-\[120px\] {
+  padding-bottom: 120px;
+}
+
+.pb-\[400px\] {
+  padding-bottom: 400px;
+}
+
 .text-center {
   text-align: center;
 }
@@ -1356,6 +1569,26 @@ video {
   font-size: 9px;
 }
 
+.text-\[18px\] {
+  font-size: 18px;
+}
+
+.text-\[44px\] {
+  font-size: 44px;
+}
+
+.text-\[32px\] {
+  font-size: 32px;
+}
+
+.text-\[22px\] {
+  font-size: 22px;
+}
+
+.text-\[21px\] {
+  font-size: 21px;
+}
+
 .font-\[400\] {
   font-weight: 400;
 }
@@ -1374,6 +1607,18 @@ video {
 
 .leading-\[68px\] {
   line-height: 68px;
+}
+
+.leading-\[24px\] {
+  line-height: 24px;
+}
+
+.leading-\[28px\] {
+  line-height: 28px;
+}
+
+.leading-\[27px\] {
+  line-height: 27px;
 }
 
 .text-Button_Color {
@@ -1479,5 +1724,17 @@ video {
 
   .md\:max-w-\[80\%\] {
     max-width: 80%;
+  }
+
+  .md\:max-w-\[60\%\] {
+    max-width: 60%;
+  }
+
+  .md\:max-w-\[78\%\] {
+    max-width: 78%;
+  }
+
+  .md\:max-w-\[79\%\] {
+    max-width: 79%;
   }
 }
