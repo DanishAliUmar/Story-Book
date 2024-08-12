@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../output.css">
+    <link rel="stylesheet" href="/assets/css/custom.css">
+    <title>Enter OTP</title>
+</head>
+<body>
+    <section class="flex items-center justify-center h-[100vh] w-full">
+        <div class="max-w-[1000px] mx-auto rounded-[22px] custom_shadow px-[32px] pt-[32px]">
+            <div class="flex items-center justify-end">
+                <a href="/" class="rounded-[100px] h-[36px] w-[36px] cursor-pointer bg-cancle_button flex items-center justify-center">
+                    <svg class="fill-[#202020] h-[22px] w-[22px]" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M342.6 150.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L192 210.7 86.6 105.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L146.7 256 41.4 361.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L192 301.3 297.4 406.6c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L237.3 256 342.6 150.6z"/></svg>                                                 
+                </a>
+            </div>
+            <div class="flex gap-[50px] py-[40px]">
+                <div class="flex-1 pb-[32px]">
+                    <h3 class="text-[21px] font-[600] text-color_Black">Forgot password?</h3>
+                    <p class="text-Grey_1 text-[15px] font-[400] font-sans mt-[9px]">We have send you 6-digit verification code to your email address to reset your password</p>
+                    <form action="" class="mt-[32px]">
+                        <p class="text-center text-[15px] font-[400] text-color_Black font-sans">Henry****@gmail.com</p>
+                        <div class="mt-[9px]">
+
+                        </div>
+                        <p class="mt-[26px] text-center text-Grey_1 text-[15px] font-sans">Didn’t receive email?</p>
+                        <div class="flex items-center justify-center gap-[4px] mt-[6px]">
+                            <p class="text-color_Black font-[400] font-sans text-[15px]">You can resend code in</p>
+                            <p class="text-Button_Color font-[400] font-sans text-[15px]">55s</p>
+                        </div>
+                        <a href="/src/auth/set_new_password.html" class="custom-btn bg-Button_Color w-full mt-[40px] rounded-[8px] custom_shadow">
+                            Continue
+                        </a>
+                    </form>
+                </div>
+                <div class="flex-1">
+                    <div class="flex items-center justify-end flex-col">
+                        <img src="/assets/images/forgot_password.png" class="w-[400px]" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</body>
+</html>
